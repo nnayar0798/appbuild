@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import Landing from './Landing'
+import Landing from './pages/Landing';
 import Onboarding from './pages/Onboarding';
 import Matched from './pages/Matched';
 import Feed from './pages/Feed';
